@@ -9,6 +9,8 @@ public class LoginTest {
   public void f() {
 	  //login code
 	  System.out.println("cool push");
+	  System.out.println("hard push");
+	  
 	  
   }
   @BeforeTest
