@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31788" started-at="2018-08-25T13:24:05Z" finished-at="2018-08-25T13:24:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31788" started-at="2018-08-25T13:24:05Z" finished-at="2018-08-25T13:24:37Z">
+      <class name="com.qa.tests.DropDownNDataProviderTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.qa.tests.DropDownNDataProviderTest@f2bd5b]" name="beforeTest" is-config="true" duration-ms="19998" started-at="2018-08-25T13:24:05Z" finished-at="2018-08-25T13:24:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="compareCountryDropdown()[pri:0, instance:com.qa.tests.DropDownNDataProviderTest@f2bd5b]" name="compareCountryDropdown" duration-ms="11101" started-at="2018-08-25T13:24:25Z" finished-at="2018-08-25T13:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareCountryDropdown -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.qa.tests.DropDownNDataProviderTest@f2bd5b]" name="afterTest" is-config="true" duration-ms="588" started-at="2018-08-25T13:24:36Z" finished-at="2018-08-25T13:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.qa.tests.DropDownNDataProviderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
